@@ -1,0 +1,11 @@
+C:\Users\toshi\source\repos\Caluculater\Caluculater\bin\Debug\Caluculater.exe.config
+C:\Users\toshi\source\repos\Caluculater\Caluculater\bin\Debug\Caluculater.exe
+C:\Users\toshi\source\repos\Caluculater\Caluculater\bin\Debug\Caluculater.pdb
+C:\Users\toshi\source\repos\Caluculater\Caluculater\obj\Debug\Caluculater.csproj.AssemblyReference.cache
+C:\Users\toshi\source\repos\Caluculater\Caluculater\obj\Debug\Caluculater.csproj.SuggestedBindingRedirects.cache
+C:\Users\toshi\source\repos\Caluculater\Caluculater\obj\Debug\Caluculater.Form1.resources
+C:\Users\toshi\source\repos\Caluculater\Caluculater\obj\Debug\Caluculater.Properties.Resources.resources
+C:\Users\toshi\source\repos\Caluculater\Caluculater\obj\Debug\Caluculater.csproj.GenerateResource.cache
+C:\Users\toshi\source\repos\Caluculater\Caluculater\obj\Debug\Caluculater.csproj.CoreCompileInputs.cache
+C:\Users\toshi\source\repos\Caluculater\Caluculater\obj\Debug\Caluculater.exe
+C:\Users\toshi\source\repos\Caluculater\Caluculater\obj\Debug\Caluculater.pdb
