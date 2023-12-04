@@ -169,7 +169,7 @@ namespace Caluculater
             this.convert.TabIndex = 11;
             this.convert.Text = "+/-";
             this.convert.UseVisualStyleBackColor = true;
-            this.convert.Click += new System.EventHandler(this.ConvertNum);
+            this.convert.Click += new System.EventHandler(this.PlusMinusInversion);
             // 
             // conma
             // 
